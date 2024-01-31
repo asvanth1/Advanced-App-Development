@@ -1,0 +1,13 @@
+/* ServicesPage.css */
+
+.services-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .service-cards {
+    display: flex;
+    justify-content: center;
+  }
+  
