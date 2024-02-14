@@ -1,0 +1,20 @@
+/* Events.css */
+
+.events-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h2 {
+    color: #283593;
+  }
+  
+  .event-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  /* Add more styling as needed */
+  
